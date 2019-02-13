@@ -11,6 +11,6 @@ import cucumber.api.junit.Cucumber;
 	plugin = {"pretty", "json:target/cucumber-reports/Cucumber.json"},
 	monochrome = true)
 
-public class DemoLoginTestRunner {
+public class TestRunner {
 
 }
